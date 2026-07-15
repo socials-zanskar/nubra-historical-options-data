@@ -1,4 +1,4 @@
-# Historical Expired Options Data — Nubra Python SDK Example
+# Historical Expired Options Data Nubra Python SDK Example
 
 An end-to-end example of fetching historical OHLCV, Greeks, and IV data
 for an **expired** NSE options contract using the
